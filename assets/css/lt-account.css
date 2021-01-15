@@ -1,0 +1,43 @@
+
+.flex-container, flex-container2 {
+    display: flex;
+    background-color: black;
+}
+#table_div_id.dataTables_filter {
+    float: right;
+    text-align: right;
+}
+.flex-container > .keypia_flex {
+    /*background-color: #f1f1f1;*/
+    margin: 10px 0 0 10px;
+    padding: 20px 10px 0 50px;
+    font-size: 30px;
+    color: white;
+}
+.keypia_flex2 {
+    /*background-color: #f1f1f1;*/
+    margin: 10px 0 0 50px;
+    padding: 10px 10px 0 10px;
+    font-size: 30px;
+    color: white;
+}
+.keypia_flex3 {
+    /*background-color: #f1f1f1;*/
+    margin: 10px 0 0 65px;
+    padding: 10px 10px 0 10px;
+    font-size: 30px;
+    color: white;
+}
+.data_index {
+    background-color: #f3a320;
+    margin: 10px 0 0 65px;
+    padding: 10px 10px 10px 10px;
+    font-size: 13px;
+    color: white;
+}
+.title_index {
+    color: white;
+}
+.mercado_index_color {
+    color: white;
+}
